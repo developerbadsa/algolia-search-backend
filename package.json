@@ -1,0 +1,24 @@
+{
+  "name": "algolia-search-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerbadsa/algolia-search-backend.git"
+  },
+  "author": "Rahimbadsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerbadsa/algolia-search-backend/issues"
+  },
+  "homepage": "https://github.com/developerbadsa/algolia-search-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
