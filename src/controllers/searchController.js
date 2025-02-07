@@ -34,8 +34,8 @@ const addProduct = async (req, res) => {
 
 const test = async (req, res) => {
     try {
-       console.log('bismillah')
-       res.json('bismillah')
+       console.log('this is test')
+       res.json('Hiting api to test')
     } catch (error) {
         res.status(500).json({ error: error.message });
     }
