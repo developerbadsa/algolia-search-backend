@@ -1,6 +1,5 @@
 const client = require('../config/algolia');
 
-console.log('access')
 
 const search = async (req, res) => {
     const { query } = req.query;
