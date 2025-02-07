@@ -56,7 +56,7 @@ A simple backend for handling search and product indexing with Algolia.
 
 ### ✅ Test API
 - **GET** `/api/test`
-- **Response**: `"bismillah"`
+- **Response**: `"Test"`
 
 ## 🎯 Tech Stack
 - **Node.js**
